@@ -16,7 +16,7 @@ This project shows the process of extracting data from a website using Selenium 
 2. Install the necessary dependencies using anaconda or pip:
 
 
-3. [WebDriver](https://www.selenium.download the dev/documentation/en/webdriver/driver_requirements/) driver and install it on your system. WebDriver should be suitable for your browser and operating system.
+3. [WebDriver](https://www.selenium.dev/downloads/) driver and install it on your system. WebDriver should be suitable for your browser and operating system.
 
 ## Usage
 
